@@ -4,7 +4,7 @@
     "header": {
         "logo_img": "images/conformatix(r)-blue.webp",
         "logo_img_alt": "Conformatix",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
